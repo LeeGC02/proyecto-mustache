@@ -4,10 +4,22 @@
     left: 100px;
     border-radius: 50%;
     position: absolute;
-    color: black;
+    color: #382c1d;
     box-shadow:
         150px 240px 0 0 currentColor,
         300px 240px 0 0 currentColor;
+}
+
+.eyes {
+    width: 75px;
+    height: 75px;
+    left: 70px;
+    border-radius: 50%;
+    position: absolute;
+    color: black;
+    box-shadow:
+        200px 70px 0 0 currentColor,
+        400px 70px 0 0 currentColor;
 }
 
 .mustache::before {
